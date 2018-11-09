@@ -1,0 +1,10 @@
+/* styles.css by me */
+
+body{background-color:#fff4e6; }
+h1{color: #854442; background-color:#FFCCBC; text-align: center; font-size: 45px; font-family: arial; text-decoration: underline; }
+h2{font-size: 30px; color:#66545e;}
+h4{text-align: center;font-size: 30px; color:#66545e;}
+h3 {color:#66545e ;font-size: 30px;}
+a {text-decoration: none; font-weight:bold;font-size: 20px; text-decoration: underline; color: #000080;}
+
+p{font-size:20px; font-family:cambria;}
